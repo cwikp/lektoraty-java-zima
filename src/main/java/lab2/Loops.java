@@ -19,5 +19,7 @@ public class Loops {
             System.out.println("Looping! Value of j: " + j);
         }
         System.out.println("...after for loop.");
+
+        System.out.println("Cokolwiek");
     }
 }
